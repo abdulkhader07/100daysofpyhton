@@ -1,5 +1,5 @@
 # 100daysofpyhton
 100 DAYS PRO BOOTCAMP ON PYTHON
 
-#Day 1
+# Day 1
 BAND NAME GENERATOR
