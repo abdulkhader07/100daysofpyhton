@@ -4,4 +4,4 @@
 # Day 1
 BAND NAME GENERATOR
 
-#Day 2
+# Day 2
