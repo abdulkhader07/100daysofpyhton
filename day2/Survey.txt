@@ -1,0 +1,13 @@
+name = input("What is your name? ")
+dob = input("What is your date of birth in the ddmmyy order? ")
+dd = dob[0:2]
+mm = dob[2:4]
+yy = dob[4:]
+print(f"Hi, {name}, \nYour date of birth is {dd} \nMonth of birth is {mm} \nAnd year of birth is {yy}.")
+
+#Output: What is your name? John Doe
+# What is your date of birth in the ddmmyy order? 01011970
+# Hi, John Doe,
+# Your date of birth is 01
+# Month of birth is 01
+# And year of birth is 1970.
